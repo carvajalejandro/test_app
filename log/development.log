@@ -2447,3 +2447,21 @@ Processing by PagesController#home as HTML
 Completed 200 OK in 6ms (Views: 5.5ms | Allocations: 3810)
 
 
+Started GET "/" for ::1 at 2022-10-08 12:43:35 -0600
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.2ms | Allocations: 124)
+  Rendered layout layouts/application.html.erb (Duration: 9.0ms | Allocations: 14377)
+Completed 200 OK in 10ms (Views: 9.8ms | Allocations: 15335)
+
+
+Started GET "/" for ::1 at 2022-10-08 12:46:02 -0600
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.6ms | Allocations: 129)
+  Rendered layout layouts/application.html.erb (Duration: 5.6ms | Allocations: 2995)
+Completed 200 OK in 10ms (Views: 8.2ms | Allocations: 3829)
+
+
